@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+App made to demonstrate state change with flutter.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
